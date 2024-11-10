@@ -1,0 +1,7 @@
+#extra keys 12 btn with keyboard
+extra-keys = [ \
+  103   [ \                                                                        104   │ { key: ESC, popup: { macro: ":q\n", display: "QuickExit" } }, \          105   │ { key: '/', popup: '\\\\' }, \
+  106   │ { key: '-', popup: '_' }, \                                              107   │ { key: HOME, popup: { macro: "CTRL HOME", display: "Top" } }, \
+  108   │ { key: UP, popup: { macro: "CTRL UP", display: "UP" } }, \               109   │ {key: KEYBOARD, popup: {macro: "CTRL d", display: exit}} \
+  110   ], \                                                                       111   [ \
+  112   │ { key: ALT, popup: {macro: "CTRL f TAB", display: "tmux →"}}, \          113   │ { key: CTRL, popup: { macro: ":w\n", display: "Write" } }, \             114   │ { key: TAB, popup: { macro: ":wq\n", display: "Write And Exit" } }, \    115   │ { key: LEFT, popup: { macro: "CTRL LEFT", display: "Left" } }, \         116   │ { key: DOWN, popup: { macro: "CTRL DOWN", display: "Bottom" } }, \       117   │ { key: RIGHT, popup: { macro: "CTRL RIGHT", display: "Right" } } \       118   ] \                                                                        119 ]
