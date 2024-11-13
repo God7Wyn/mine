@@ -17,12 +17,19 @@ zsh-syntax-highlighting zsh-autosuggestions zsh-autocomplete
 ---
 
 pkg install lua-language-server
---
+---
+
 curl -o /data/data/com.termux/files/usr/bin/install-in-mason  https://raw.githubusercontent.com/Amirulmuuminin/setup-mason-for-termux/main/install-in-mason
---
+---
+
 chmod +x /data/data/com.termux/files/usr/bin/install-in-mason
---
+---
+
 cd ../usr/bin
---
+---
+
 install-in-mason lua-language-server
 install-in-mason stylua
+---
+
+https://stackoverflow.com/questions/78108133/issue-with-none-ls-configuration-error-with-eslint-d
