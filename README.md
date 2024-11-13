@@ -17,12 +17,12 @@ zsh-syntax-highlighting zsh-autosuggestions zsh-autocomplete
 ---
 
 pkg install lua-language-server
-&
+--
 curl -o /data/data/com.termux/files/usr/bin/install-in-mason  https://raw.githubusercontent.com/Amirulmuuminin/setup-mason-for-termux/main/install-in-mason
-&
+--
 chmod +x /data/data/com.termux/files/usr/bin/install-in-mason
-&
+--
 cd ../usr/bin
-&
+--
 install-in-mason lua-language-server
 install-in-mason stylua
