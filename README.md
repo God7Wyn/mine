@@ -9,7 +9,7 @@ zsh
 first install zsh with  
 ```apt install zsh``` or ```pkg install zsh```  
 then  
-install zsh :
+install zsh config :
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
