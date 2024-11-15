@@ -4,20 +4,18 @@
 <div id="badges" align="center"><img src="https://img.shields.io/badge/Lexazsh-black?style=for-the-badge&logo=kalilinux&logoColor=blue" alt="Badge"/>
 </div>
 
-zsh
+Zsh
 -
 first install zsh with  
 ```apt install zsh``` or ```pkg install zsh```  
-then  
-install zsh config :
+then install zsh config :  
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-plugins for zsh 
+Plugins for zsh 
 -
-make sure you have git installed  
-to install git, do  
+make sure you have git installed    
 ```apt install git``` or ```pkg install git ```  
 
 - syntax hightlight :
@@ -35,6 +33,24 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZS
 then add this plugin name into your ```~/.zshrc``` configuration :
 
 ```zsh-syntax-highlighting zsh-autosuggestions zsh-autocomplete```
+
+Nerd font
+-
+to install nerd font from website, you have to install wget first  
+```apt install wget``` or ```pkg install wget```  
+you can get nerd font here  
+```https://github.com/ryanoasis/nerd-fonts```  
+go to patched font and copy link the font files  
+
+to install nerd font with wget  
+-Jet Brains Mono Nerd font
+```
+wget https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/JetBrainsMono/NoLigatures/Regular/JetBrainsMonoNLNerdFont-Regular.ttf
+```
+-Fira Code Nerd font  
+```
+wget https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/FiraCode/Regular/FiraCodeNerdFont-Regular.ttf
+```
 
 ---
 
