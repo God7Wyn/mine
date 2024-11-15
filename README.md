@@ -16,6 +16,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 plugins for zsh 
 -
+make sure you have git installed  
+to install git, do  
+```apt install git``` or ```pkg install git ```  
+
 - syntax hightlight :
 ```
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
