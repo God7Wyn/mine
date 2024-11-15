@@ -45,7 +45,7 @@ wget https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts
 wget https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/FiraCode/Regular/FiraCodeNerdFont-Regular.ttf
 ```
 you can get nerd font here   https://github.com/ryanoasis/nerd-fonts  
-go to patched font and copy the link font files
+go to patched font folder and copy the link of the font file
 
 Colorscheme
 -
