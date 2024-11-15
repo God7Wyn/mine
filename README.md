@@ -38,18 +38,26 @@ Nerd font
 -
 to install nerd font from website, you have to install wget first  
 ```apt install wget``` or ```pkg install wget```  
-you can get nerd font here  
-```https://github.com/ryanoasis/nerd-fonts```  
-go to patched font and copy link the font files  
 
 to install nerd font with wget  
--Jet Brains Mono Nerd font
+- Jet Brains Mono Nerd font
 ```
 wget https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/JetBrainsMono/NoLigatures/Regular/JetBrainsMonoNLNerdFont-Regular.ttf
 ```
--Fira Code Nerd font  
+
+- Fira Code Nerd font  
 ```
 wget https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/FiraCode/Regular/FiraCodeNerdFont-Regular.ttf
+```
+you can get nerd font here  
+```https://github.com/ryanoasis/nerd-fonts```  
+go to patched font and copy the link font files
+
+Colorscheme
+-
+mine  
+```
+
 ```
 
 ---
