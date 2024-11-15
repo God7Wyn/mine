@@ -6,7 +6,9 @@
 
 zsh
 -
-
+first install zsh with  
+```apt install zsh``` or ```pkg install zsh```  
+then  
 install zsh :
 
 ```
@@ -32,6 +34,8 @@ then add this plugin name into your ```~/.zshrc``` configuration :
 
 ---
 
+lua language server
+
 pkg install lua-language-server
 
 
@@ -46,6 +50,8 @@ cd ../usr/bin
 
 install-in-mason lua-language-server
 install-in-mason stylua
+
+---
 
 
 https://stackoverflow.com/questions/78108133/issue-with-none-ls-configuration-error-with-eslint-d
