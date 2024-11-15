@@ -56,11 +56,14 @@ go to patched font and copy the link font files
 Colorscheme
 -
 mine  
+- one dark
+```
+wget https://github.com/God7Wyn/mine/raw/refs/heads/main/Colorscheme/One%20Dark/colors.properties
+```
+- catppuccin mocha
 ```
 
 ```
-
----
 
 lua language server
 
