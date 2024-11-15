@@ -75,6 +75,3 @@ curl -o /data/data/com.termux/files/usr/bin/install-in-mason  https://raw.github
 
 ---
 https://stackoverflow.com/questions/78108133/issue-with-none-ls-configuration-error-with-eslint-d
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=God7Wyn&hide_progress=true&show_icons=true&hide_border=true&theme=nightowl)
