@@ -1,11 +1,14 @@
 <div id="header" align="center">
 <img src="https://github.com/God7Wyn/mine/raw/refs/heads/main/me.png" width="100"/>
 </div>
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Lexazsh-black?style=for-the-badge&logo=kalilinux&logoColor=blue" alt="Badge"/>
+<div id="badges" align="center"><img src="https://img.shields.io/badge/Lexazsh-black?style=for-the-badge&logo=kalilinux&logoColor=blue" alt="Badge"/>
 </div>
+
 install zsh :
+
+```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 
 ---
 
