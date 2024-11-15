@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://github.com/God7Wyn/mine/raw/refs/heads/main/me.png" width="100"/>
 </div>
-<div id="badges" align="center"><img src="https://img.shields.io/badge/Lexazsh-black?style=for-the-badge&logo=kalilinux&logoColor=blue" alt="Badge"/>
+<div id="badges" align="center"><img src="https://img.shields.io/badge/Lexazsh-black?style=for-the-badge&logo=zsh&logoColor=blue" alt="Badge"/>
 </div>
 
 Zsh
