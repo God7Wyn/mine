@@ -75,3 +75,8 @@ curl -o /data/data/com.termux/files/usr/bin/install-in-mason  https://raw.github
 
 ---
 https://stackoverflow.com/questions/78108133/issue-with-none-ls-configuration-error-with-eslint-d
+
+---
+```
+pkg install zsh git wget neovim python nodejs ripgrep which tree 
+```
