@@ -8,7 +8,7 @@ Zsh
 -
 first install zsh with  
 ```pkg install zsh```  
-then install zsh config :  
+then install oh my zsh config :  
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
